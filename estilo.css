@@ -1,0 +1,53 @@
+div {
+  color:#FFF;
+  margin:5px;
+  padding:8px;
+  width:100%;
+}
+img {
+  width:75px;
+  height:auto;
+}
+.img {
+  width:100px;
+  height:auto;
+  display:block;
+  border-radius:50%;
+  box-shadow:8px 8px #26001b;
+  padding:5px;
+  border:5px solid #f5cebe; 
+}
+.menu {
+  width:100%;
+  list-style:none;
+  margin:5px;
+  padding:5px;  
+}
+.menu li {
+  display:inline-block;  
+}
+.menu li a {
+  display:inline-block;
+  color:#26001b;
+  padding: 10px 20px;  
+}
+.menu li a:hover {
+  background:#26001b;
+  color:#000;  
+}  
+table {
+  border:3px solid #f5cebe;
+  border-collapse:collapse;
+  width:75 px;  
+}
+table td {
+  border:1px solid #f5cebe;
+  padding: 10px; 
+}
+table td over {
+  background:#f5cebe;
+  color: #FFF;  
+}
+table tr:hover {
+  background : #114e60; 
+}

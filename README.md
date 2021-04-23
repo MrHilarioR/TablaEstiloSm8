@@ -1,1 +1,0 @@
-# TablaEstiloSm8
